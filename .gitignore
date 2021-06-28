@@ -1,0 +1,18 @@
+node_modules/
+.expo/
+.expo-shared
+.vscode
+package-lock.json
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+env.ts
