@@ -6,4 +6,4 @@ const env = {
     CDN_IMAGE: 'https://cdn.discordapp.com'
 };
 
-export default env;
+export default end;
